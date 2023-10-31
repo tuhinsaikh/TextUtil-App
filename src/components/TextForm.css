@@ -1,0 +1,18 @@
+.highlighted-text{
+    height: 400px;
+    border: 1px solid;
+    padding: 10px;
+    font-size: 16px;
+    background-color: white;
+    overflow-y: auto;
+    white-space: pre-line;
+}
+
+.highlighted {
+    background-color: yellow; 
+  }
+.foundbutton{
+    color: yellow;
+    margin-right: 10px;
+}
+/* */
